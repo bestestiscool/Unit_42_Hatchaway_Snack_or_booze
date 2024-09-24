@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bestestiscool/Unit_42_Hatchaway_Snack_or_booze/static/css/main.49e43388.css",
+    "main.js": "/bestestiscool/Unit_42_Hatchaway_Snack_or_booze/static/js/main.e34e6562.js",
+    "index.html": "/bestestiscool/Unit_42_Hatchaway_Snack_or_booze/index.html",
+    "main.49e43388.css.map": "/bestestiscool/Unit_42_Hatchaway_Snack_or_booze/static/css/main.49e43388.css.map",
+    "main.e34e6562.js.map": "/bestestiscool/Unit_42_Hatchaway_Snack_or_booze/static/js/main.e34e6562.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e43388.css",
+    "static/js/main.e34e6562.js"
+  ]
+}
