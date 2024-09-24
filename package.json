@@ -2,7 +2,7 @@
   "name": "snack-or-booze",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/bestestiscool/Unit_42_Hatchaway_Snack_or_booze",
+  "homepage": "https://bestestiscool.github.io/Unit_42_Hatchaway_Snack_or_booze/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
