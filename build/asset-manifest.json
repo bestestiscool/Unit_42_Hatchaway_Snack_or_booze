@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Unit_42_Hatchaway_Snack_or_booze/static/css/main.49e43388.css",
-    "main.js": "/Unit_42_Hatchaway_Snack_or_booze/static/js/main.e34e6562.js",
+    "main.js": "/Unit_42_Hatchaway_Snack_or_booze/static/js/main.be4f514e.js",
     "index.html": "/Unit_42_Hatchaway_Snack_or_booze/index.html",
     "main.49e43388.css.map": "/Unit_42_Hatchaway_Snack_or_booze/static/css/main.49e43388.css.map",
-    "main.e34e6562.js.map": "/Unit_42_Hatchaway_Snack_or_booze/static/js/main.e34e6562.js.map"
+    "main.be4f514e.js.map": "/Unit_42_Hatchaway_Snack_or_booze/static/js/main.be4f514e.js.map"
   },
   "entrypoints": [
     "static/css/main.49e43388.css",
-    "static/js/main.e34e6562.js"
+    "static/js/main.be4f514e.js"
   ]
 }
