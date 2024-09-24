@@ -54,8 +54,8 @@ function App() {
           <Route path="/drinks/:id">
             <FoodItem items={drinks} cantFind="/drinks" />
           </Route>
-          {/* For any undefined routes */}
-          <Route>
+          {/* Catch-all route for undefined routes */}
+          <Route path="*">
             <p>Page not found!</p>
           </Route>
         </Switch>
